@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+ #box{
+            border:1px solid #234567;
+            border-radius: 10px;
+            box-shadow: 1px 1px 5px  #0d1926;
+        }
+
+        .button {
+            background-color: #ff6b01;
+        }
+        
+
+
+
+
+
+h3{
+    color:rgb(26, 27, 94);
+    font-size: 26px;
+    text-shadow:1px 1px 4px #666666;
+    padding-bottom: 20px;
+    padding-top:20px ;
+    text-align: center;
+    
+}
+
+
+
+.animate-zoom{
+    transform: scale(0.8);
+}
+
+.
+
+
+
+
+
+
+
+
+
+@media (max-width:1110px) {
+    h3{
+        font-size: 20px;
+    }
+    
+}
+
+@media (max-width:970px) {
+    h3{
+        font-size: 22px;
+    }
+    
+}
+
+
+
+@media (max-width:770px)  {
+   
+    
+    h3{
+        font-size: 20px;
+    }
+
+        
+
+}
+
+
+@media (max-width:450px)  {
+ 
+h3{
+    font-size: 20px;
+   
+}
+
+
+
+
+
+
+   
+
+}
+
+
